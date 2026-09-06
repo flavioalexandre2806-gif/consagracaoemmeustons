@@ -44,7 +44,7 @@
   ];
   var CATALOG = MISSA.concat(ESPECIAIS);
   var SLOTS = CATALOG.concat(CASAMENTO);
-  var WEEKDAYS = ["dom", "seg", "ter", "qua", "qui", "sex", "sáb"];
+  var WEEKDAYS = ["domingo", "segunda-feira", "terça-feira", "quarta-feira", "quinta-feira", "sexta-feira", "sábado"];
   var MONTHS = [
     "janeiro", "fevereiro", "março", "abril", "maio", "junho",
     "julho", "agosto", "setembro", "outubro", "novembro", "dezembro",
