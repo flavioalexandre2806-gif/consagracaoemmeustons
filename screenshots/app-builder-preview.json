@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Consagração em Meus Tons",
+      "hasCanvas": false,
+      "bodyTextLen": 372,
+      "bodyTextHash": "2d642ba3c980402f0e19081656af018627c76aa7310b823c60b8a6d643d82ec7",
+      "bodyTextPrefix": "REPERTÓRIO LITÚRGICO Consagração em Meus Tons Flávio Vieira Litu",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Consagração em Meus Tons",
+      "hasCanvas": false,
+      "bodyTextLen": 362,
+      "bodyTextHash": "26336edbd90d222bd494fea52dfae9b81cc246b4838f5365447c838ed1448ca2",
+      "bodyTextPrefix": "REPERTÓRIO LITÚRGICO Consagração em Meus Tons Flávio Vieira Litu",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
